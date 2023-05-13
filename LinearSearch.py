@@ -1,5 +1,3 @@
-# Tamer Ayoub
-
 import time
 
 import timeit
